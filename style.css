@@ -1,0 +1,14 @@
+#welcome-section{
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+}
+#me{
+	float:right;
+	width: 400px;
+
+}
+#navbar {
+	float:left;
+	width: 600px;
+}
